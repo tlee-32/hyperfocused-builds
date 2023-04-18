@@ -4,11 +4,11 @@
         <title>Hyperfocused</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 17 Apr 2023 16:03:19 -0400</pubDate>
+            <pubDate>Tue, 18 Apr 2023 00:41:15 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.1/Hyperfocused-1.0.1.dmg" length="2107946" type="application/octet-stream" sparkle:edSignature="nCTS9Cr5gf91qFEGpNXfePd8ZOE/F61ecp4WUnnbyh7IfvSEJ4gnQejAI1xq84WsQdmcz5tnKCeIzEA/ar05BA=="/>
+            <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.1/Hyperfocused-1.0.1.dmg" length="2119683" type="application/octet-stream" sparkle:edSignature="oGK44Ce3Qm2cDskEE++awiuo2KPDwkcR/HNRyiUj9caUenn6gYvHizGVmhvH9R9Mzq0hAC+OI9qoRtJYVLhdBA=="/>
         </item>
     </channel>
 </rss>
