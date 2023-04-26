@@ -4,6 +4,17 @@
         <title>Hyperfocused</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 26 Apr 2023 16:47:35 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.5/Hyperfocused-1.0.5.dmg" length="2405724" type="application/octet-stream" sparkle:edSignature="N9vyqwsNm4Jh1LIAnuRND+D1Q5d1kEhNzF8tD0njx+jFAkEokHYpK53D5Zox8fuqRq50yzPu4aVM3wdzjubdCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.5/Hyperfocused5-4.delta" sparkle:deltaFrom="4" length="112638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NfsN5XwxqIV5xM8TtQgS1ZPjR6lZRHSDYwLodmNov4zPZFbbtAv8PooP2VxLSpSWvmhBBFpioVvGbv4IyClOBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 24 Apr 2023 21:02:16 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
