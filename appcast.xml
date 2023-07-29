@@ -4,6 +4,21 @@
         <title>Hyperfocused</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sat, 29 Jul 2023 16:07:21 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.17/Hyperfocused-1.0.17.dmg" length="4515174" type="application/octet-stream" sparkle:edSignature="7I3SpCLjJEwotiyNWLzoCa3LEhb5MF080wkIdmLqUHacfZcyTSjLgFoEhhTvHpPhFruesLkb4maHKmACTcoXCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.17/Hyperfocused17-16.delta" sparkle:deltaFrom="16" length="207470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nr+BM4Lsg/GZQ3AVcoxvM7sdGl1rnT93EO0urC/auUll8nBra1l8kTW3uR9JVV4yX8wWE8Kh5ZcFrWt3BnQwBw=="/>
+                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.17/Hyperfocused17-15.delta" sparkle:deltaFrom="15" length="867890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yQ4se38lwG6j+LwWcEVrLxTvIv8rYHO9r/lUxG0+AVvYumQ65DQA/jOrb4JRz3EekgE0At0XH2qmgRtLzEbQAA=="/>
+                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.17/Hyperfocused17-14.delta" sparkle:deltaFrom="14" length="871354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="awcwAz9CtK8flfvuBQtUA1PbnXl5+YZKxffVa9xPShXXqk+oWFVcX9aOvCNKab8qiLHYuwkNNaA3dO3ktSVtAQ=="/>
+                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.17/Hyperfocused17-13.delta" sparkle:deltaFrom="13" length="947894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="raX7C0EZpHmF0AsO+BQUn96Y1L+Tqoc18M3gxkrr21KuzVAy/AX/gp7mLbii2H4G9Z7UC0pN7QzD0LzYg+owDA=="/>
+                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.17/Hyperfocused17-12.delta" sparkle:deltaFrom="12" length="1152942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0YVEXQ2TcIjSSxdT6KdTx+Qv3wr4G8ZGetl/m51+s7b6lNZsBXUa11osP3sZFkVqRC/+0ZLToeBEXiYhlzZOAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sat, 17 Jun 2023 15:09:43 -0400</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -30,21 +45,6 @@
                 <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.15/Hyperfocused15-12.delta" sparkle:deltaFrom="12" length="531894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ox3X7GGEOIOYXZRi/OM/1jlXTU2NdDSVBlq26KOB6yPHYR2JRr296UwJfMKr+VQeubu9d8gTMdQ/L/dPGNCLDA=="/>
                 <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.15/Hyperfocused15-11.delta" sparkle:deltaFrom="11" length="543570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FtRK1/+DSZpoJzInTRKLM0p7UsH3iAaXc/YConOchy18muf/y9/Hq0URh7wyEdNPrIkPR6EJyxTPIgt7vUq7Bg=="/>
                 <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.15/Hyperfocused15-10.delta" sparkle:deltaFrom="10" length="656674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="oMCTcvtX28QiqEXpLGx3we3CoBXXxk9gCZ2jMu/kGuelDqTqImMAf8KsbG5h04V6oXLcpZUE0TUhSA15bjTVBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 24 May 2023 23:13:14 -0700</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.14/Hyperfocused-1.0.14.dmg" length="3656006" type="application/octet-stream" sparkle:edSignature="l9sS0BO+bm7mY22RBiujKHvzoJPdyWOzvcoZ8vmaxOMUaDl2YQ8dwINFNYq1xapY8aGx5rZbBLpfe2/e0jyYDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.14/Hyperfocused14-13.delta" sparkle:deltaFrom="13" length="271374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="JNoMXp+5FmxUM9ATcRzveg6eZRe3fJ2spjI3726HhHQxb3izbkU3mc7g3GAnWDc3gb3ZSnG+nrf8FZ4kKS0MCg=="/>
-                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.14/Hyperfocused14-12.delta" sparkle:deltaFrom="12" length="532162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ks+XBYus+2NaPe/JxHRT4t7iR/j2A3xn8+rGfJjxkAZKA2K4aYymlZaqdN/5Ni+Lf1P/opiBSRBWHyrwi87PBA=="/>
-                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.14/Hyperfocused14-11.delta" sparkle:deltaFrom="11" length="542194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+97QcocUVcjn1FxkCpuyjUPBod1X9PnhvNHup88h6mG7ayR7AyWlXFKCUYxho53jhEuWzk7z1gfxS8VttflDBQ=="/>
-                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.14/Hyperfocused14-10.delta" sparkle:deltaFrom="10" length="656154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rOzNuLM6T/h7y8RiTYqLyKPQpbd99MnguT3IQmwGOqHNknqTgk3KrAz2Uz9WECSW6qC4bxrA96hyhgz1hl5fBA=="/>
-                <enclosure url="https://github.com/tlee-32/hyperfocused-builds/releases/download/v1.0.14/Hyperfocused14-9.delta" sparkle:deltaFrom="9" length="687386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="onEVqbrH7gGVC3iQH71wQdvjVp93pkgC6uirrchcLbBgIJxN75h5nHAbSauqioUqyqxIbPlNPTx4/5QEWGP+Cg=="/>
             </sparkle:deltas>
         </item>
     </channel>
